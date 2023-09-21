@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="tcrop_color_black">#000</color>
+    <color name="tcrop_color_blaze_orange">#FF6300</color>
+    <color name="tcrop_color_ebony_clay">#20242F</color>
+    <color name="tcrop_color_heather">#B3BECE</color>
+    <color name="tcrop_color_white">#FFF</color>
+
+    <color name="tcrop_color_toolbar">@color/tcrop_color_white</color>
+    <color name="tcrop_color_statusbar">#f5f5f5</color>
+    <color name="tcrop_color_toolbar_widget">@color/tcrop_color_black</color>
+    <color name="tcrop_color_widget">@color/tcrop_color_black</color>
+    <color name="tcrop_color_widget_active">@color/tcrop_color_white</color>
+    <color name="tcrop_color_active_controls_color">@color/tcrop_color_blaze_orange</color>
+    <color name="tcrop_color_inactive_controls_color">@color/tcrop_color_heather</color>
+    <color name="tcrop_color_widget_rotate_mid_line">@color/tcrop_color_blaze_orange</color>
+    <color name="tcrop_color_widget_rotate_angle">@color/tcrop_color_ebony_clay</color>
+    <color name="tcrop_color_active_aspect_ratio">@color/tcrop_color_blaze_orange</color>
+    <color name="tcrop_color_inactive_aspect_ratio">@color/tcrop_color_ebony_clay</color>
+    <color name="tcrop_color_widget_background">@color/tcrop_color_ebony_clay</color>
+    <color name="tcrop_color_widget_text">@color/tcrop_color_blaze_orange</color>
+    <color name="tcrop_color_progress_wheel_line">@color/tcrop_color_ebony_clay</color>
+    <color name="tcrop_color_crop_background">@color/tcrop_color_black</color>
+
+    <color name="tcrop_color_default_crop_grid">#80ffffff</color>
+    <color name="tcrop_color_default_crop_frame">#ffffff</color>
+    <color name="tcrop_color_default_dimmed">#8c000000</color>
+    <color name="tcrop_color_default_logo">#4f212121</color>
+
+</resources>

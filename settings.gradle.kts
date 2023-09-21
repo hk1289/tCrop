@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "ImageCrop"
 include(":app")
- 
+include(":tCrop")
